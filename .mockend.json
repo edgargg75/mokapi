@@ -3,7 +3,7 @@
 			},
 	"User":{
 			"_": { "items": 10 },
-			"data": {"cumulatedRunDistance": { "int": { "min": 0, "max": 1000000 } }}
+			"data": ["cumulatedRunDistance": { "int": { "min": 0, "max": 1000000 } }]
 			},
 	"Post":{	 "_": { "items": 20 }
 			}
