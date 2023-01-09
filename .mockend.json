@@ -9,6 +9,7 @@
 	 "orig": {
 	 "provider": {"ALFA"}
 	 "collection": { "regexp": "[A-Z][a-z]{5,10}" }
+	 { "collection": { "regexp": "[A-Z][a-z]{5,10}" } }
 	 }
   }
 }
