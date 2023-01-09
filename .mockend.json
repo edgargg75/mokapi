@@ -2,6 +2,7 @@
   "Post": {
     "_": { "items": 20 },
     "title": { "string": {} },
-    "comments": { "hasMany": "Comment" }
+    "comments": { "hasMany": "Comment" },
+    "cumulatedRunDistance": { "int": { "min": 0, "max": 1000000 } }
   }
 }
