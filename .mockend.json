@@ -1,7 +1,6 @@
 {
   "Post": {
-	"instance": {
-    "name": { "items": 20 }},
+	 "name": { "items": 20 },
   
   "title": { "string": {} },
     "comments": { "hasMany": "Comment" },
