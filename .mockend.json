@@ -1,4 +1,5 @@
-{
+"data": [
+		{
 			"data": {
 				"cumulatedRunDistance": 45708
 			},
@@ -9812,3 +9813,4 @@
 				"collection": "État du train remonté par le MR"
 			}
 		}
+	]
