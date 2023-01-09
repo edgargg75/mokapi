@@ -2,15 +2,6 @@
 "User": [{
             "data": {
                 "cumulatedRunDistance": 45708
-            },
-            "instance": {
-                "name": "Train 10"
-            },
-            "receiptTimestamp": "2022-11-27T02:56:26.788Z",
-            "dataTimestamp": "2022-11-27T01:36:48.048Z",
-            "orig": {
-                "provider": "ATS B",
-                "collection": "État du train remonté par le MR"
             }
         }
 ]
