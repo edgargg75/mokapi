@@ -3,7 +3,9 @@
 			},
 	"User":{
 			"_": { "items": 10 },
-			"cumulatedRunDistance": { "int": { "min": 0, "max": 1000000 } }
+			"cumulatedRunDistance": { "int": { "min": 0, "max": 1000000 } },
+	 "receiptTimestamp": {"dateTime": {"min": "2010-01-01T00:00:00Z","max": "2020-12-31T23:59:59Z"}},
+	 "dataTimestamp": {"dateTime": {"min": "2010-01-01T00:00:00Z","max": "2020-12-31T23:59:59Z"}},
 			},
 	"Post":{	 "_": { "items": 20 }
 			}
