@@ -6,7 +6,7 @@
     "cumulatedRunDistance": { "int": { "min": 0, "max": 1000000 } },
 	 "receiptTimestamp": {"dateTime": {"min": "2010-01-01T00:00:00Z","max": "2020-12-31T23:59:59Z"}},
 	 "dataTimestamp": {"dateTime": {"min": "2010-01-01T00:00:00Z","max": "2020-12-31T23:59:59Z"}},
-	 "provider": { "string": {} }
+	 "provider": { "string": {} },
 	 { "collection": { "regexp": "[A-Z][a-z]{5,10}" } }
   }
 }
